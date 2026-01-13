@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Yang Qizheng (Huajian) 👋<br>
+Hi, I’m HuaJian(花笺) 👋<br>
 
 🎓 Undergraduate student in Computer Science<br>🔐 Focus: Cybersecurity<br>🤖 Interests: AI applications & programming<br>I prefer learning through hands-on projects rather than pure theory. My current focus is building solid computer science fundamentals while exploring how cybersecurity and AI can be combined in practical scenarios, such as automation, security analysis, and tool development.<br>I actively experiment with different development tools and AI platforms, and I enjoy turning ideas into usable projects. I value efficiency, practicality, and continuous learning.<br>🛠 Tech Stack (growing):<br>C / C++ Python Linux Computer Networks Intro to Cybersecurity AI Tools<br>📚 Other interests:<br>Music, literature, history, anime, and games<br>I aim to grow into a security-minded engineer with strong practical skills and a solid technical foundation.
 <img width="2559" height="1599" alt="屏幕截图 2025-12-18 183121" src="https://github.com/user-attachments/assets/3745005d-56ba-44a5-991d-60ec739d4d01" />
