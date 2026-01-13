@@ -17,5 +17,7 @@ Hi, I’m Yang Qizheng (Huajian) 👋<br>🎓 Undergraduate student in Computer 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HuaJianX&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width="2559" height="1599" alt="屏幕截图 2025-12-18 183121" src="https://github.com/user-attachments/assets/3745005d-56ba-44a5-991d-60ec739d4d01" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
